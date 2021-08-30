@@ -1,6 +1,8 @@
 # Warzone-SBMM-APP-Much-Improved
 Warning: this script is semi-broken. 
 
+![alt-text](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved/blob/main/sbmm.gif)
+
 This is a web scraping script that I used in October, 2020 in order to take data from the popular website 'COD Tracker'. I'm not saying I caused it, but after I uploaded the video linked below and shared it on reddit, Activision itself revoked API access to third parties and COD Tracker completely revamped their site, thus breaking my web scraping script. 
 
 Here's the video:
