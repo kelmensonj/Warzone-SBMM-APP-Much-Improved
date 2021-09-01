@@ -11,7 +11,11 @@ Here's the video: https://www.youtube.com/watch?v=016e0_qIGH8
 
 In order to run the script there are some dependencies. For Ubuntu 21.04 I did:
 
-
+```
+pip3 install BeautifulSoup4
+pip3 install selenium
+pip3 install pandas
+```
 
 I was really proud of this script when I made it. Some features:
 * You could search one player's entire match history, or a few players that you pick. But you could also search the entire Leaderboard automatically in order to gather data on thousands of players in just a couple clicks.
